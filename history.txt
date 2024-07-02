@@ -1,0 +1,5 @@
+NOME    PONTUACAO
+Sabrina	3
+sabrina	9
+Sasa	1
+sasa	3
